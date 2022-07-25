@@ -2,7 +2,7 @@
 
 ## Required Packages 
 
-To install goto the folder containing the project with a CLI and type nmp install, the package.json will install node and puppeteer. 
+To install first install Node,js then goto the folder containing the project with a CLI and type nmp install, the package.json will install node and puppeteer. 
 
 -Node.js
 
