@@ -1,5 +1,4 @@
-# CS-361-Microservice 
-## Wiki image scrapper 
+# CS-361 Microservice - Wiki image scrapper
 
 ## Required Packages 
 -Node.js
