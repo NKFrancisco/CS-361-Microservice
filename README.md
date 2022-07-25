@@ -1,2 +1,2 @@
-# CS-361
+# CS-361-Microservice
 Assignment 1
